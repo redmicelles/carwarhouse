@@ -168,7 +168,10 @@ cython_debug/
 db.sqlite3
 /env
 **/file
-
+**/__pycache__
+activate.sh
+requirements.txt
+**/migrations/**
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
